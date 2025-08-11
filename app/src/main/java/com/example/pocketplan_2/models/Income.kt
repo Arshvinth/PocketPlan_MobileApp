@@ -1,0 +1,16 @@
+package com.example.pocketplan_2.models
+
+import android.os.Parcelable
+import kotlinx.parcelize.Parcelize
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+@Parcelize
+@Entity(tableName = "Income")
+data class Income(
+    @PrimaryKey(autoGenerate = true) val id: Int = 0,
+    val title: String,
+    val category: String,
+    val amount: Double,
+    val date: String
+) : Parcelable

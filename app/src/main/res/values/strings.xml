@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">PocketPlan</string>
+    <string name="QuoteLH">\"Smart planning today for a better \ntomorrow.\"</string>
+    <string name="Home">Home</string>
+    <string name="Budget">Budget</string>
+    <string name="Savings">Savings</string>
+    <string name="HomePage" />
+    <string name="HomePage1">HomePage</string>
+    <string name="QuoteH">\"Plan your spending, spend your plan.\"</string>
+    <string name="TotalIncome">Total Income</string>
+    <string name="TotalIncome1">Total Income</string>
+    <string name="Zero">00.00</string>
+    <string name="Rs">Rs.</string>
+    <string name="Add">Add</string>
+    <string name="View">View</string>
+    <string name="TotalExp">Total Expense</string>
+    <string name="YrSavings">Your Savings</string>
+    <string name="History">History</string>
+    <string name="YrBudget">Your Budget</string>
+    <string name="AddIncome">Add Income</string>
+    <string name="AddInme">Add \nIncome</string>
+    <string name="QuoteAI">\"Plan smart. Spend wise.\"</string>
+    <string name="title">Title</string>
+    <string name="Category">Category</string>
+    <string name="Amount">Amount</string>
+    <string name="Date">Date</string>
+    <string name="DateFormat">DD/MM/YYYY</string>
+    <string name="Login">LOGIN</string>
+    <string name="Username">Username</string>
+    <string name="pwd">Password</string>
+    <string name="SignUp">SignUp</string>
+    <string name="signUPCaps">SIGN UP</string>
+    <string name="ForgotPwd">Forgot Password</string>
+    <string name="RememberMe">Remember Me</string>
+    <string name="LoiginQuote">\"Good money habits start with monthly check-ins.\"</string>
+    <string name="GreetingL">Great To See\nYou Back!</string>
+    <string name="welcome">Welcome!</string>
+    <string name="Email">Email</string>
+    <string name="RePwd">Re-enter Password</string>
+    <string name="Hello">Hello</string>
+    <string name="TestUn">Test UserName</string>
+    <string name="AddExp">Add Expense</string>
+    <string name="AddExpense">Add\nExpense</string>
+    <string name="QuoteAE">\"Watch your spending! \"</string>
+    <string name="BudgetTop">Your\nBudget</string>
+    <string name="YrBudget1">Your\nBudget</string>
+    <string name="QuoteB">\"Budget now, stress less later!\"</string>
+    <string name="BudgetedIncome">Budgeted Income</string>
+    <string name="salary">Salary</string>
+    <string name="Business">Business</string>
+    <string name="other">Other</string>
+    <string name="Food">Food</string>
+    <string name="transport">Transport</string>
+    <string name="Bills">Bills</string>
+    <string name="Entertainment">Entertainment</string>
+    <string name="Edit">Edit</string>
+    <string name="YrSavings1">Your\nSavings</string>
+    <string name="QuoteS">\"Save now, enjoy later!\"</string>
+    <string name="Congrats">Congratulations!\nYou Saved</string>
+    <string name="IncomeMnth">Income for this month</string>
+    <string name="ExpenseMnth">Expense for this month</string>
+    <string name="TotalSaving">Total Savings</string>
+    <string name="AddIncomeTop">Add\nIncome</string>
+    <string name="QuoteVI">\"Plan smart. Spend wise.\"</string>
+    <string name="ViewTopInc">View\nIncome</string>
+    <string name="TotalInc">Total Income</string>
+    <string name="Search">Search</string>
+    <string name="Action">Action</string>
+    <string name="SampDate">20/02/2025</string>
+    <string name="SampleTitleIncome">Business</string>
+    <string name="SampAmount">5000.00</string>
+    <string name="ViewExp">View\nExpense</string>
+    <string name="TransactHistTop">Transaction \nHistory</string>
+    <string name="QuoteTH">\"Track it before you lack it\"</string>
+    <string name="Type">Type</string>
+    <string name="BackupTransaction">Backup Transaction</string>
+    <string name="SampleType">Income</string>
+    <string name="UpdateExpense">Update\nExpense</string>
+    <string name="UpdateIncome">Update\nIncome</string>
+    <string name="Update">Update</string>
+    <string name="Welcome">Welcome</string>
+    <string-array name="category_array">
+        <item>Salary</item>
+        <item>Business</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="category_Expenses">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Entertainment</item>
+        <item>Bills</item>
+        <item>Other</item>
+    </string-array>
+</resources>
