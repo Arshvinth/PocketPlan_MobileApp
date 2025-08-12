@@ -1,2 +1,2 @@
 # PocketPlan_MobileApp
-Developed using Kotlin+Java with Dao design pattern
+Developed using Kotlin+Java with ROOM database
